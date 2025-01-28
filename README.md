@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Project - Programming II Portfolio Project, Java](https://github.com/Kaley-Schlimgen/Prog2Portfolio)
+  - [Project - Programming II GUI Project, Java](https://github.com/Kaley-Schlimgen/372CT2)
   <!--
   - [Project - Programming I Portfolio Project, Java](https://github.com/Kaley-Schlimgen/Prog2Portfolio)
   - [Project - Introduction to Programming Portfolio](https://github.com/Kaley-Schlimgen/Prog2Portfolio)
