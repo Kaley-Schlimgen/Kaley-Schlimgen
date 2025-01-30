@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi, I'm Kaley! </h1>
+<h1>Hi, I'm Kaley! </h1>
 
 
 
@@ -37,11 +37,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
+{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
 - [LinkedIn Profile](https://www.linkedin.com/in/kaley-schlimgen/)
+  
+  https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 
 
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: (https://www.linkedin.com/in/kaley-schlimgen/)
 
 
 <!--
