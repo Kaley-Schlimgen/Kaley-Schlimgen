@@ -3,7 +3,7 @@
 
 
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>My Favorite Software Development Projects:</h2>
 
    [Project - Programming II Portfolio Project, Java](https://github.com/Kaley-Schlimgen/Prog2Portfolio)
    
@@ -17,6 +17,12 @@
 
 <h3>Colorado State University Global Campus, 2019 - Present</h3>
 
+<h7>Computer Science</h7>
+
+<h7>Expected Graduation: May 2026</h7>
+
+
+<!--
 <h5>GPA: 3.14</h5>
 
 <h4>Relavant Courses:</h4>
@@ -34,19 +40,14 @@
 <h3>Shift Lead, Bartender & Server, 2013 - 2025</h3>
 
 <h5>Heritage Bar & Grill</h5>
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
+
 - [LinkedIn Profile](https://www.linkedin.com/in/kaley-schlimgen/)
   
-  https://img.shields.io/badge/just%20the%20message-8A2BE2
 
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: (https://www.linkedin.com/in/kaley-schlimgen/)
 
 
 <!--
