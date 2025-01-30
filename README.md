@@ -1,7 +1,7 @@
+<div align="center">
+
 <h1>Hi, I'm Kaley! </h1>
-
-
-
+I'm an ambitious and driven computer science student attending CSU Global. I am new to programming, but have really enjoyed what I have learned so far. I particularly like coding with Java and Python. Check out some of my favorite projects below!
   
 <h2>My Favorite Software Development Projects:</h2>
 
